@@ -4,11 +4,9 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Prachi%20Shukla&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BCA%20Final%20Year%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
-</div>
+</div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=BCA+Final+Year+Student;Full+Stack+Developer;Web+Development+Enthusiast;Problem+Solver;Always+Learning+New+Technologiesr;Open+Source+Contributor" alt="Prachi Shukla-" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=BCA+Final+Year+Student;Full+Stack+Developer;Web+Development+Enthusiast;Problem+Solver;Always+Learning+New+Technologies&font=Poppins&color=00FF41&size=28&center=true&width=650&height=60&vCenter=true">
-</p>
   
   <!-- Enhanced Profile Views & Social Stats -->
   ![Profile Views](https://komarev.com/ghpvc/?username=prachi-shukla04&color=58A6FF&style=for-the-badge&label=PROFILE+VISITORS)
