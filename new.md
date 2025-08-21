@@ -1,4 +1,4 @@
-# Hi there i am Prachi Shukla
+# Hi there, I'm Prachi Shukla! 👋
 
 <div align="center">
   
